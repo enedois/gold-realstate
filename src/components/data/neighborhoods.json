@@ -1,0 +1,32 @@
+[
+    {
+      "neighborhood_name": "Southport",
+      "zip_code": "4215",
+      "population": 31908,
+      "num_residences": 14119
+    },
+    {
+      "neighborhood_name": "Surfers Paradise",
+      "zip_code": "4217",
+      "population": 23689,
+      "num_residences": 13168
+    },
+    {
+      "neighborhood_name": "Broadbeach",
+      "zip_code": "4218",
+      "population": 6228,
+      "num_residences": 3400
+    },
+    {
+      "neighborhood_name": "Main Beach",
+      "zip_code": "4217",
+      "population": 3883,
+      "num_residences": 2634
+    },
+    {
+      "neighborhood_name": "Mermaid Beach",
+      "zip_code": "4218",
+      "population": 6637,
+      "num_residences": 3369
+    }
+  ]

@@ -1,0 +1,62 @@
+[
+  {
+    "address": "123 Main St",
+    "neighborhood": "Downtown",
+    "description": "Spacious 2-bedroom apartment with city views",
+    "image_url": "https://i2.au.reastatic.net/800x600-format=webp/0a59edaf233e7997b5bd746749141ac7ffe6ae8301edb2519413c2f3eedfeece/image.jpg"
+  },
+  {
+    "address": "456 Elm St",
+    "neighborhood": "Westside",
+    "description": "Charming 3-bedroom house with backyard",
+    "image_url": "https://i2.au.reastatic.net/1176x696-resize,extend,r=33,g=40,b=46/ec1499955db4b64165abc147c2c9da31ff28c7b84dabef51a7e87f89da7602bc/image.jpg"
+  },
+  {
+    "address": "789 Oak St",
+    "neighborhood": "Eastside",
+    "description": "Modern 1-bedroom condo in a luxury high-rise",
+    "image_url": "https://i2.au.reastatic.net/1176x696-resize,extend,r=33,g=40,b=46/cb506361be6d6b2cc90f52dc78367caed9b9ec87422b08a345a4827d03cf5e7b/image.jpg"
+  },
+  {
+    "address": "1011 Pine St",
+    "neighborhood": "Uptown",
+    "description": "Cozy studio apartment with hardwood floors",
+    "image_url": "https://i2.au.reastatic.net/1176x696-resize,extend,r=33,g=40,b=46/a8660d0e613ed8cc3a7f9e7cd22b109f5f8f30f8d571a06965d6da095114b498/image.jpg"
+  },
+  {
+    "address": "1213 Maple St",
+    "neighborhood": "Northside",
+    "description": "Spacious 4-bedroom house with mountain views",
+    "image_url": "https://i2.au.reastatic.net/1176x696-resize,extend,r=33,g=40,b=46/a457e66211fe74c156326ea295f37dbb6341f035dbb4c40e972c580130df2292/image.jpg"
+  },
+  {
+    "address": "1415 Cedar St",
+    "neighborhood": "Southside",
+    "description": "Renovated 2-bedroom apartment with private balcony",
+    "image_url": "https://i2.au.reastatic.net/1176x696-resize,extend,r=33,g=40,b=46/b97db9f01000428e6d2020e6c2e9029f3042d18e5464837058b7603d87a27a21/image.jpg"
+  },
+  {
+    "address": "1617 Walnut St",
+    "neighborhood": "Downtown",
+    "description": "Historic 3-bedroom house with original details",
+    "image_url": "https://example.com/property_images/1617_walnut_st.jpg"
+  },
+  {
+    "address": "1819 Spruce St",
+    "neighborhood": "Uptown",
+    "description": "Sunny 1-bedroom apartment with updated kitchen",
+    "image_url": "https://example.com/property_images/1819_spruce_st.jpg"
+  },
+  {
+    "address": "2021 Birch St",
+    "neighborhood": "Eastside",
+    "description": "Brand new 2-bedroom condo with rooftop deck",
+    "image_url": "https://example.com/property_images/2021_birch_st.jpg"
+  },
+  {
+    "address": "2223 Pine St",
+    "neighborhood": "Northside",
+    "description": "Spacious 5-bedroom house with fenced yard",
+    "image_url": "https://example.com/property_images/2223_pine_st.jpg"
+  }
+]
