@@ -23,14 +23,14 @@ function App() {
 
   return (
     <>
-    <Navigation/>      
+       
     
     <Router>
     <Routes>
-      <Route exact path='/properties' element= { <Houses/>}/>
-      <Route exact path='/' element= { <Home/>}/>
-      <Route exact path='/neighborhoods' element= { <Neighborhoods/>}/> 
-      <Route exact path='/agents' element= { <Agents/>}/>     
+      <Route exact path='/properties' element= {[<Navigation/> , <Houses/>]}/>
+      <Route exact path='/' element= {[<Navigation/> , <Home/>]}/>
+      <Route exact path='/neighborhoods' element= {[<Navigation/> ,  <Neighborhoods/>]}/> 
+      <Route exact path='/agents' element= {[<Navigation/> ,  <Agents/>]}/>     
       
      </Routes>
     </Router>
